@@ -1,0 +1,10 @@
+Name,Quantity,Component
+"U1",1,"PCF8574-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"U2",1," Arduino Uno R3"
+"D1",1,"Green LED"
+"D2",1,"Orange LED"
+"D3",1,"Red LED"
+"R1, R2, R3, R5",4,"1 kΩ Resistor"
+"R4",1," Photoresistor"
+"SEN1",1," Soil Moisture Sensor"
+"U5",1," Temperature Sensor [TMP36]"
