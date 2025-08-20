@@ -9,7 +9,12 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 - Monitors soil moisture levels in real-time  
 - Prevents overwatering and underwatering  
 - Low-cost and easy to assemble  
-- Scalable for home gardening or small farms  
+- Scalable for home gardening or small farms
+- LED indicators:
+- 🟢 **Green LED** → Soil is well hydrated  
+- 🟠 **Orange LED** → Soil is moderately dry  
+- 🔴 **Red LED** → Soil is too dry, watering needed  
+ 
 
 ---
 
