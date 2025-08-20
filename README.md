@@ -3,7 +3,7 @@
 This project is a Soil Moisture Detection System. It measures soil moisture levels and provides feedback using an LCD display and 3 LEDs.  
 The device helps prevent overwatering or underwatering, making it suitable for home gardening or agriculture
 
-##Features
+## Features
 
 Soil Moisture Detection – Reads soil hydration levels in real-time using a soil moisture sensor.
 LED Status Indicators –
