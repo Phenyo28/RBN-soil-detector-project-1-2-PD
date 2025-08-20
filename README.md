@@ -38,21 +38,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 - Power source  
 
 ---
-## Components Used for Arduino
 
-| Component                                | Qty | What it’s for                                                        |
-| ---------------------------------------- | --- | -------------------------------------------------------------------- |
-| LCD 16x2 (I2C, PCF8574-based, addr 0x20) | 1   | Displays soil moisture, temperature, and light readings              |
-| Arduino Uno R3                           | 1   | Main microcontroller that processes sensor data and controls outputs |
-| Green LED                                | 1   | Indicates soil is sufficiently wet                                   |
-| Orange LED                               | 1   | Indicates soil is moderately dry                                     |
-| Red LED                                  | 1   | Indicates soil is very dry and needs watering                        |
-| 1 kΩ Resistors (R1, R2, R3, R5)          | 4   | Limit current to protect LEDs and sensors                            |
-| Photoresistor (LDR)                      | 1   | Measures light intensity in the environment                          |
-| Soil Moisture Sensor                     | 1   | Detects the soil’s moisture level                                    |
-| TMP36 Temperature Sensor                 | 1   | Measures soil/ambient temperature                                    |
-
----
 
 ## Circuit Wiring Diagram
 <img width="1297" height="704" alt="Screenshot 2025-08-20 081548" src="https://github.com/user-attachments/assets/0c38310e-83e5-4c7a-a62b-4612773cc7ee" />
