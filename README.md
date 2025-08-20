@@ -16,6 +16,14 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 | `soil_detector1.ino`          | Arduino source code for running the soil detector |
 
 ---
+
+## Components Used
+- Soil Moisture Sensor  
+- Arduino IDE 
+- Jumper wires  
+- Breadboard or PCB  
+- Power source
+---
 ## Features
 - Monitors soil moisture levels in real-time
 - Prevents overwatering and underwatering  
@@ -27,13 +35,6 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 - 🔴 **Red LED** → Soil is too dry 
 
 ---
-
-## Components Used
-- Soil Moisture Sensor  
-- Arduino IDE 
-- Jumper wires  
-- Breadboard or PCB  
-- Power source  
 
 ---
 
@@ -54,15 +55,16 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 
----
+## Hardware components
 
-## Components Used
-- Soil Moisture Sensor  
-- Arduino IDE 
-- Jumper wires  
-- Breadboard or PCB  
-- Power source
-
+| Component | Description |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Soil Moisture Sensor Probes | Detects the moisture level in the soil by measuring conductivity. |
+| 16x2 LCD Display (I2C) | Displays real-time readings such as soil moisture percentage. |
+| LED Indicators (Green/Orange/Red) | Visual feedback: Green = Good, Orange = Moderate, Red = Low moisture. |
+| Push Button / Power Switch | Turns the device ON/OFF or resets readings. |
+| Battery Pack / Power Supply | Provides portable power to the system. |
+| Casing/Enclosure | Protects the electronics and provides a compact handheld design. |
 ---
 ## Soil moisture detector
 <img width="420" height="522" alt="Screenshot 2025-08-20 090954" src="https://github.com/user-attachments/assets/a3591f1e-447a-4426-9a99-0de228a09199" />
