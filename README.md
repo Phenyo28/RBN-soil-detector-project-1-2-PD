@@ -65,6 +65,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 ## Soil moisture detector
-<img width="734" height="516" alt="Screenshot 2025-08-20 090428" src="https://github.com/user-attachments/assets/8f7ee4bc-9387-4f0c-8ce0-4c520a7be951" />
+<img width="420" height="522" alt="Screenshot 2025-08-20 090954" src="https://github.com/user-attachments/assets/a3591f1e-447a-4426-9a99-0de228a09199" />
+
 
 ---
