@@ -49,6 +49,8 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 ---
 
 ## Circuit Wiring Diagram
-<img width="1297" height="704" alt="Screenshot 2025-08-20 081548" src="https://github.com/user-attachments/assets/0c38310e-83e5-4c7a-a62b-4612773cc7ee" />
+
+<img width="1117" height="579" alt="Screenshot 2025-08-20 085340" src="https://github.com/user-attachments/assets/8419c3e5-52b8-4fbe-89eb-45b7c49eabe9" />
+
 
 ---
