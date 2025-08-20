@@ -5,16 +5,27 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 
+## Repository Contents
+| File / Folder                 | Description                                       |
+| ----------------------------- | ------------------------------------------------- |
+| `Assembly 1.zip`              | Complete 3D assembly files                        |
+| `Assembly STL.zip`            | STL files for 3D printing the case/enclosure      |
+| `Bill of material`            | List of all required electronic components        |
+| `Soil Detector Schematic.pdf` | Circuit wiring diagram in PDF format              |
+| `Soil Detector.png`           | Circuit schematic (image version)                 |
+| `soil_detector1.ino`          | Arduino source code for running the soil detector |
+
+---
 ## Features
-- Monitors soil moisture levels in real-time  
+- Monitors soil moisture levels in real-time
 - Prevents overwatering and underwatering  
 - Low-cost and easy to assemble  
 - Scalable for home gardening or small farms
-- LED indicators:
+- - LED indicators:
 - 🟢 **Green LED** → Soil is well hydrated  
 - 🟠 **Orange LED** → Soil is moderately dry  
 - 🔴 **Red LED** → Soil is too dry, watering needed  
- 
+
 
 ---
 
