@@ -9,7 +9,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 | File / Folder                 | Description                                       |
 | ----------------------------- | ------------------------------------------------- |
 | `Assembly 1.zip`              | Complete 3D assembly files                        |
-| `Assembly STL.zip`            | STL files for 3D printing the case/enclosure      |
+| `Assembly STL.zip`            | STL files for 3D printing the case                |
 | `Bill of material`            | List of all required electronic components        |
 | `Soil Detector Schematic.pdf` | Circuit wiring diagram in PDF format              |
 | `Soil Detector.png`           | Circuit schematic (image version)                 |
