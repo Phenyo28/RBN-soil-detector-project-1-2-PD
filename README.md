@@ -30,7 +30,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ## Components Used
 - Soil Moisture Sensor  
-- Arduino / ESP32 / Raspberry Pi (depending on setup)  
+- Arduino IDE 
 - Jumper wires  
 - Breadboard or PCB  
 - Power source  
@@ -44,13 +44,18 @@ The device helps prevent overwatering or underwatering, making it suitable for h
    Select Arduino Uno board and correct COM port.
 4. Open soil_detector1.ino and upload it to the Arduino.
 5. View readings on the Serial Monitor (9600 baud) or LCD.
-   Check LED indicators: 🟢 hydrated 🟠 moderately dry 🔴 too dry.
+   LED indicators: 🟢 hydrated 🟠 moderately dry 🔴 too dry.
 
 ---
 
 ## Circuit Wiring Diagram
 
 <img width="1117" height="579" alt="Screenshot 2025-08-20 085340" src="https://github.com/user-attachments/assets/8419c3e5-52b8-4fbe-89eb-45b7c49eabe9" />
+
+---
+## Soil moisture detector
+<img width="734" height="516" alt="Screenshot 2025-08-20 090428" src="https://github.com/user-attachments/assets/8f7ee4bc-9387-4f0c-8ce0-4c520a7be951" />
+
 
 
 ---
