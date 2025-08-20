@@ -21,7 +21,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 - Prevents overwatering and underwatering  
 - Low-cost and easy to assemble  
 - Scalable for home gardening or small farms
-- - LED indicators:
+- LED indicators:
 - 🟢 **Green LED** → Soil is well hydrated  
 - 🟠 **Orange LED** → Soil is moderately dry  
 - 🔴 **Red LED** → Soil is too dry, watering needed  
@@ -30,7 +30,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 ---
 
 
-## 🛠️ Components Used
+## Components Used
 - Soil Moisture Sensor  
 - Arduino / ESP32 / Raspberry Pi (depending on setup)  
 - Jumper wires  
