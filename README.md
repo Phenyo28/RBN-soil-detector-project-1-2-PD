@@ -1,5 +1,4 @@
 # RBN-soil-detector-project-1-2-PD
-First soil detector building project in programming and CAD
 
 This project is a Soil Moisture Detection System. It measures soil moisture levels and provides feedback using an LCD display and 3 LEDs.  
 The device helps prevent overwatering or underwatering, making it suitable for home gardening or agriculture
