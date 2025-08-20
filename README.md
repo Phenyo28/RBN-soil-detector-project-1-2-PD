@@ -26,9 +26,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 - 🟠 **Orange LED** → Soil is moderately dry  
 - 🔴 **Red LED** → Soil is too dry, watering needed  
 
-
 ---
-
 
 ## Components Used
 - Soil Moisture Sensor  
@@ -39,6 +37,16 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 
+## Setup and Installation
+1. Wire sensors, LCD, and LEDs as shown in the schematic.
+   Use resistors for LEDs and connect the LCD via I2C.
+2. Install the LiquidCrystal_I2C library.
+   Select Arduino Uno board and correct COM port.
+4. Open soil_detector1.ino and upload it to the Arduino.
+5. View readings on the Serial Monitor (9600 baud) or LCD.
+   Check LED indicators: 🟢 hydrated 🟠 moderately dry 🔴 too dry.
+
+---
 
 ## Circuit Wiring Diagram
 <img width="1297" height="704" alt="Screenshot 2025-08-20 081548" src="https://github.com/user-attachments/assets/0c38310e-83e5-4c7a-a62b-4612773cc7ee" />
