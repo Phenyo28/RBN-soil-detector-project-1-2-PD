@@ -29,6 +29,15 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 
+
+## 🛠️ Components Used
+- Soil Moisture Sensor  
+- Arduino / ESP32 / Raspberry Pi (depending on setup)  
+- Jumper wires  
+- Breadboard or PCB  
+- Power source  
+
+---
 ## Components Used for Arduino
 
 | Component                                | Qty | What it’s for                                                        |
@@ -45,7 +54,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 
-## Circuit Build
+## Circuit Wiring Diagram
 <img width="1297" height="704" alt="Screenshot 2025-08-20 081548" src="https://github.com/user-attachments/assets/0c38310e-83e5-4c7a-a62b-4612773cc7ee" />
 
 ---
