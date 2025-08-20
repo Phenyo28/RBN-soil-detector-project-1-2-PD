@@ -24,7 +24,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 - LED indicators:
 - 🟢 **Green LED** → Soil is well hydrated  
 - 🟠 **Orange LED** → Soil is moderately dry  
-- 🔴 **Red LED** → Soil is too dry, watering needed  
+- 🔴 **Red LED** → Soil is too dry 
 
 ---
 
