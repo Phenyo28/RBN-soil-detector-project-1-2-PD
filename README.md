@@ -13,7 +13,7 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 
 ---
 
-## Components Used
+## Components Used for Arduino
 
 | Component                                | Qty | What it’s for                                                        |
 | ---------------------------------------- | --- | -------------------------------------------------------------------- |
