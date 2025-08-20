@@ -42,3 +42,8 @@ The device helps prevent overwatering or underwatering, making it suitable for h
 | Photoresistor (LDR)                      | 1   | Measures light intensity in the environment                          |
 | Soil Moisture Sensor                     | 1   | Detects the soil’s moisture level                                    |
 | TMP36 Temperature Sensor                 | 1   | Measures soil/ambient temperature                                    |
+
+---
+
+
+<img width="1297" height="704" alt="Screenshot 2025-08-20 081548" src="https://github.com/user-attachments/assets/0c38310e-83e5-4c7a-a62b-4612773cc7ee" />
