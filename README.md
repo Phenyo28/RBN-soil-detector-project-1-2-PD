@@ -1,7 +1,6 @@
 # RBN-soil-detector-project-1-2-PD
 
-This project is a Soil Moisture Detection System. It measures soil moisture levels and provides feedback using an LCD display and 3 LEDs.  
-The device helps prevent overwatering or underwatering, making it suitable for home gardening or agriculture
+This project is a Soil Moisture Detection System. It measures the water content in soil, helping plants get the right amount of water. It prevents overwatering and underwatering, conserves water, and supports healthy plant growth. The system can be integrated with automatic irrigation setups for smart watering and is useful for agricultural efficiency, gardening, and research purposes.
 
 ---
 
