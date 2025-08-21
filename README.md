@@ -56,14 +56,20 @@ This project is a Soil Moisture Detection System. It measures the water content 
 
 ## Hardware components
 
-| Component | Description |
-|--------------------------------|-----------------------------------------------------------------------------|
-| Soil Moisture Sensor Probes | Detects the moisture level in the soil by measuring conductivity. |
-| 16x2 LCD Display (I2C) | Displays real-time readings such as soil moisture percentage. |
-| LED Indicators (Green/Orange/Red) | Visual feedback: Green = Good, Orange = Moderate, Red = Low moisture. |
-| Push Button / Power Switch | Turns the device ON/OFF or resets readings. |
-| Battery Pack / Power Supply | Provides portable power to the system. |
-| Casing/Enclosure | Protects the electronics and provides a compact handheld design. |
+| Component              | Quantity | Notes                                  |
+|------------------------|----------|----------------------------------------|
+| Arduino Uno            | 1        | Microcontroller                        |
+| Soil Moisture Sensor   | 1        | Analog output to A0                    |
+| DHT11 Sensor           | 1        | Temperature & Humidity                 |
+| Photoresistor (LDR)    | 1        | For light measurement                  |
+| LCD 16x2 (I2C module)  | 1        | For displaying readings                |
+| Green LED              | 1        | Soil moisture > 50%                    |
+| Orange LED             | 1        | Soil moisture ~30%                     |
+| Red LED                | 1        | Soil moisture < 10% (blinking)         |
+| Breadboard             | 1        | For prototyping                        |
+| Jumper Wires           | 10+      | Male-to-male / Female-to-male          |
+| 9V Battery             | 1        | Power supply                           |
+
 ---
 ## Soil moisture detector
 <img width="420" height="522" alt="Screenshot 2025-08-20 090954" src="https://github.com/user-attachments/assets/a3591f1e-447a-4426-9a99-0de228a09199" /> <img width="424" height="496" alt="Screenshot 2025-08-20 092450" src="https://github.com/user-attachments/assets/cec03b9f-1ffe-4240-9b1a-e8d6ba269a45" /> <img width="166" height="518" alt="Screenshot 2025-08-20 093041" src="https://github.com/user-attachments/assets/e2dc7993-2322-4a7d-9bce-dc653c2595dc" />
