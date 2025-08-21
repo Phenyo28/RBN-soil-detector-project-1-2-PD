@@ -54,7 +54,7 @@ This project is a Soil Moisture Detection System. It measures the water content 
 
 ---
 
-## Hardware components
+## Hardware components(for the circuit)
 
 | Component              | Quantity | Purpose in the project                                  |
 |------------------------|----------|----------------------------------------|
@@ -63,12 +63,12 @@ This project is a Soil Moisture Detection System. It measures the water content 
 | DHT11 Sensor           | 1        | Temperature & Humidity                 |
 | Photoresistor (LDR)    | 1        | For light measurement                  |
 | LCD 16x2 (I2C module)  | 1        | For displaying readings                |
-| Green LED              | 1        | Soil moisture > 50%                    |
+| Green LED              | 1        | Soil moisture > Good                    |
 | Orange LED             | 1        | Soil moisture ~30%                     |
 | Red LED                | 1        | Soil moisture < 10% (blinking)         |
 | Breadboard             | 1        | For prototyping                        |
 | Jumper Wires           | 10+      | Male-to-male / Female-to-male          |
-| 9V Battery             | 1        | Power supply                           |
+| 9V Battery             | 1        | Powers the system                      |
 
 ---
 ## Soil moisture detector
