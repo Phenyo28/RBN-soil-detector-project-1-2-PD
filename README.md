@@ -56,10 +56,10 @@ This project is a Soil Moisture Detection System. It measures the water content 
 
 ## Hardware components
 
-| Component              | Quantity | Notes                                  |
+| Component              | Quantity | Purpose in the project                                  |
 |------------------------|----------|----------------------------------------|
 | Arduino Uno            | 1        | Microcontroller                        |
-| Soil Moisture Sensor   | 1        | Analog output to A0                    |
+| Soil Moisture Sensor   | 1        |   Detects the moisture level in the soil by measuring conductivity                 |
 | DHT11 Sensor           | 1        | Temperature & Humidity                 |
 | Photoresistor (LDR)    | 1        | For light measurement                  |
 | LCD 16x2 (I2C module)  | 1        | For displaying readings                |
