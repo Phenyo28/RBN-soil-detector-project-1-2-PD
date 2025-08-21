@@ -64,8 +64,8 @@ This project is a Soil Moisture Detection System. It measures the water content 
 | Photoresistor (LDR)    | 1        | For light measurement                  |
 | LCD 16x2 (I2C module)  | 1        | For displaying readings                |
 | Green LED              | 1        | Soil moisture > Good                    |
-| Orange LED             | 1        | Soil moisture ~30%                     |
-| Red LED                | 1        | Soil moisture < 10% (blinking)         |
+| Orange LED             | 1        | Soil moisture ~30% Moderate                    |
+| Red LED                | 1        | Soil moisture < 10% Low moisture        |
 | Breadboard             | 1        | For prototyping                        |
 | Jumper Wires           | 10+      | Male-to-male / Female-to-male          |
 | 9V Battery             | 1        | Powers the system                      |
