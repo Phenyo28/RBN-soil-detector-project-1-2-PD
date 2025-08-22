@@ -60,14 +60,14 @@ This project is a Soil Moisture Detection System. It measures the water content 
 |------------------------|----------|----------------------------------------|
 | Arduino Uno            | 1        | Microcontroller                        |
 | Soil Moisture Sensor   | 1        |   Detects the moisture level in the soil by measuring conductivity                 |
-| DHT11 Sensor           | 1        | Temperature & Humidity                 |
+| DHT11 Sensor           | 1        | To detect the temperature and humidity           |
 | Photoresistor (LDR)    | 1        | For light measurement                  |
-| LCD 16x2 (I2C module)  | 1        | For displaying readings                |
-| Green LED              | 1        | Soil moisture > Good                    |
-| Orange LED             | 1        | Soil moisture ~30% Moderate                    |
-| Red LED                | 1        | Soil moisture < 10% Low moisture        |
-| Breadboard             | 1        | For prototyping                        |
-| Jumper Wires           | 10+      | Male-to-male / Female-to-male          |
+| LCD 16x2 (I2C module)  | 1        | Displays real time readings                 |
+| Green LED              | 1        | Soil moisture >50% = Good                    |
+| Orange LED             | 1        | Soil moisture ~30% = Moderate                    |
+| Red LED                | 1        | Soil moisture < 10% = Low moisture        |
+| Breadboard             | 1        | For prototyping and experimenting                       |
+| Jumper Wires           | 10+      | To connect components (Female or Male connectors)          |
 | 9V Battery             | 1        | Powers the system                      |
 
 ---
