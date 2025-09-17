@@ -88,5 +88,16 @@ As part of this project, I attended hands-on workshops that helped me gain essen
 ## Laser cutting and photo engraving using ImagR
 <img width="831" height="429" alt="Screenshot 2025-09-17 091921" src="https://github.com/user-attachments/assets/d383d9c1-d6bd-451e-b3b6-4a34d2d0d8aa" />
 
-
 ---
+
+## Conclusion 
+Thank you for checking out the Soil Moisture Detector System! This project provides a simple and effective way to monitor soil moisture, conserve water, and support healthy plant growth.
+
+**For future improvements I will:**
+- Improve the system by integrating an automatic irrigation pump.
+- Add mobile app or web interface for real-time monitoring remotely.
+- Experiment with different soil sensors to increase accuracy.
+
+
+**Author:**
+Rea Diale – mananadiale@gmail.com
