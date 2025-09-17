@@ -75,6 +75,18 @@ This project is a Soil Moisture Detection System. It measures the water content 
 <img width="420" height="522" alt="Screenshot 2025-08-20 090954" src="https://github.com/user-attachments/assets/a3591f1e-447a-4426-9a99-0de228a09199" /> <img width="424" height="496" alt="Screenshot 2025-08-20 092450" src="https://github.com/user-attachments/assets/cec03b9f-1ffe-4240-9b1a-e8d6ba269a45" /> <img width="166" height="518" alt="Screenshot 2025-08-20 093041" src="https://github.com/user-attachments/assets/e2dc7993-2322-4a7d-9bce-dc653c2595dc" />
 <img width="419" height="457" alt="image" src="https://github.com/user-attachments/assets/0f13ae0d-460c-4bc5-b349-536677e756d1" /> <img width="504" height="454" alt="image" src="https://github.com/user-attachments/assets/1974723a-85c0-49f8-aa19-1e93f6f4f03a" />
 
+## Laser Cutting workshop
+
+As part of this project, I attended hands-on workshops that helped me gain essential fabrication and prototyping skills.
+- Laser Cutting Workshop – Learned about routine checks, machine maintenance, carbon air filters, focusing tools, bed leveling, and engraving techniques.
+- CNC and Additive Manufacturing  – We explored subtractive vs. additive manufacturing, CNC routing operations, tool bits, spindle motors, safety practices, and software workflows.
+- Design Tools – Practiced CAD design in Onshape, generated toolpaths using Kiri:Moto, and prepared files for laser cutting.
+## Testing the laser cutting machine
+<img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/3271751c-59ea-4ba5-907c-2de13b75b2dc" />
+<img width="1033" height="297" alt="image" src="https://github.com/user-attachments/assets/de8aa434-fb6d-4d78-a152-317b18902a6d" />
+
+## Laser cutting and photo engraving using ImagR
+<img width="831" height="429" alt="Screenshot 2025-09-17 091921" src="https://github.com/user-attachments/assets/d383d9c1-d6bd-451e-b3b6-4a34d2d0d8aa" />
 
 
 ---
