@@ -73,6 +73,8 @@ This project is a Soil Moisture Detection System. It measures the water content 
 ---
 ## Soil moisture detector
 <img width="420" height="522" alt="Screenshot 2025-08-20 090954" src="https://github.com/user-attachments/assets/a3591f1e-447a-4426-9a99-0de228a09199" /> <img width="424" height="496" alt="Screenshot 2025-08-20 092450" src="https://github.com/user-attachments/assets/cec03b9f-1ffe-4240-9b1a-e8d6ba269a45" /> <img width="166" height="518" alt="Screenshot 2025-08-20 093041" src="https://github.com/user-attachments/assets/e2dc7993-2322-4a7d-9bce-dc653c2595dc" />
+<img width="419" height="457" alt="image" src="https://github.com/user-attachments/assets/0f13ae0d-460c-4bc5-b349-536677e756d1" /> <img width="504" height="454" alt="image" src="https://github.com/user-attachments/assets/1974723a-85c0-49f8-aa19-1e93f6f4f03a" />
+
 
 
 ---
